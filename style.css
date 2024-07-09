@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+}
+
+.main {
+    text-align: center;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    padding: 20px;
+    max-width: 300px;
+    width: 100%;
+}
+.profile img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 20px
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+.title {
+    color:black;
+    font-size: 1.5em;
+    margin-top: 05px;
+}
+.name{
+    text-align: center;
+}
